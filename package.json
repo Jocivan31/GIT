@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "test": "\"carregando testes....\"",
-    "build": "\"CARREGANDO BUILD.....\"",
-    "deploy": "\"CARREGANDO DEPLOY.........\""
+    "test": "echo \"carregando testes....\"",
+    "build": "echo \"CARREGANDO BUILD.....\"",
+    "deploy": "echo \"CARREGANDO DEPLOY.........\""
   }
 }

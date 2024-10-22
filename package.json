@@ -2,10 +2,10 @@
   "name": "github-actions",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Tests running...\"",
-    "build": "echo \"Build running...\"",
-    "deploy": "echo \"Deploying new build to cloud server...\""
+    "test": "carregando testes....",
+    "build": "CARREGANDO BUILD.....",
+    "deploy": "CARREGANDO DEPLOY........."
   }
 }

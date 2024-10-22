@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    
     "test": "carregando testes....",
     "build": "CARREGANDO BUILD.....",
     "deploy": "CARREGANDO DEPLOY........."
